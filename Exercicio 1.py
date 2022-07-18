@@ -1,3 +1,8 @@
+
+#Programa que recebe os dados de votos e mostra o percentual de acordo com os resultados
+
+
+
 class VotosEleicoes():
 
     def __init__(self, totalvotos, validos, brancovotos, nulos):
